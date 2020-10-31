@@ -1,1 +1,2 @@
-Live app at: https://trillo-drd.herokuapp.com/
+Not responsive for desktop only
+Live app at: https://gotaxi-drd.herokuapp.com/
